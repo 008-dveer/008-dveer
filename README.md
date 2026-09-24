@@ -8,7 +8,7 @@
 
 ### 🚀 Cloud Engineer • DevOps Specialist • Python Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;Automating+Infrastructure+with+IaC;Building+Scalable+Systems;DevOps+Automation+Expert;SRE+%26+Observability+Focused)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;Automating+Infrastructure+with+Terraform;Building+Reliable+AWS+Platforms;Python+Automation+for+Modern+Teams)](https://github.com/008-dveer)
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 ## About me
 
-I design and operate resilient, scalable cloud systems with a strong focus on automation, observability, and Infrastructure as Code. I love converting manual ops into reliable pipelines using Terraform and modern DevOps practices. My mission is to build systems that are secure, cost-efficient, and easy to maintain.
+I design and operate resilient, scalable cloud systems with a strong focus on automation, observability, and Infrastructure as Code. I love converting manual ops into reliable pipelines using Terraform, AWS services, and Python automation.
 
 - **Location**: India
 - **Role**: Cloud Engineer / DevOps Specialist
@@ -75,20 +75,6 @@ I design and operate resilient, scalable cloud systems with a strong focus on au
 - **[CI/CD Pipeline Automation](https://github.com/008-dveer)** — GitHub Actions workflows for microservices deployment with Docker
 - **[Python Monitoring Suite](https://github.com/008-dveer)** — Custom monitoring scripts with Slack/Email alerting integration
 - **[Kubernetes Deployment Templates](https://github.com/008-dveer)** — Helm charts, deployment configs, and best practices
-
----
-
-## GitHub Highlights
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=008-dveer&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=008-dveer&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=008-dveer&theme=tokyonight)
-
-</div>
 
 ---
 
