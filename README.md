@@ -8,7 +8,7 @@
 
 ### 🚀 Cloud Engineer • DevOps Specialist • Python Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;Automating+Infrastructure+with+Terraform;Building+Reliable+AWS+Platforms;Python+Automation+for+Modern+Teams)](https://github.com/008-dveer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;Automating+Infrastructure+with+Terraform;Building+Reliable+Python+Automation;Monitoring+%26+Observability+at+Scale)](https://github.com/008-dveer)
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 ## About me
 
-I design and operate resilient, scalable cloud systems with a strong focus on automation, observability, and Infrastructure as Code. I love converting manual ops into reliable pipelines using Terraform, AWS services, and Python automation.
+I design and operate resilient, scalable cloud systems with a strong focus on automation, observability, and Infrastructure as Code. I love converting manual ops into reliable pipelines using Terraform, Python, and CI/CD automation.
 
 - **Location**: India
 - **Role**: Cloud Engineer / DevOps Specialist
@@ -94,18 +94,6 @@ I design and operate resilient, scalable cloud systems with a strong focus on au
 - Create comprehensive monitoring, logging, and alerting solutions
 - Mentor on DevOps best practices and cloud cost optimization
 - Architect multi-environment AWS deployments with security & compliance
-
----
-
-## 🤝 Let's Collaborate
-
-I'm open to collaborations on:
-- Cloud architecture and infrastructure design
-- DevOps automation and tooling
-- Python-based infrastructure automation
-- Open-source DevOps projects
-
-📧 **Reach out on [LinkedIn](https://www.linkedin.com/in/dalveer-singh-098b0a367) or email me at [dalveer0559@gmail.com](mailto:dalveer0559@gmail.com)** — I usually reply within a few days.
 
 ---
 
