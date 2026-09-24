@@ -24,9 +24,9 @@ machine learning, and building practical projects.
 🔹 Data Science Projects  
 🔹 DSA & Problem Solving
 
-## 📊 GitHub Stats
+## 💼 LinkedIn
 
-![Dalveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=008-dveer&show_icons=true&hide_border=true)
+- LinkedIn: [@008-dveer](https://www.linkedin.com/in/008-dveer)
 
 ## 📫 Connect With Me
 
