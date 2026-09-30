@@ -28,6 +28,10 @@ machine learning, and building practical projects.
 
 - LinkedIn: [@008-dveer](https://www.linkedin.com/in/008-dveer)
 
+## 📧 Email
+
+- Gmail: dalveer0559@gmail.com
+
 ## 📫 Connect With Me
 
 - GitHub: [@008-dveer](https://github.com/008-dveer)
