@@ -1,41 +1,41 @@
-# Hi, I'm Dalveer 👋
+# Hi there, I'm Dalveer 👋
 
-### Data Science Student | C++ & Python Learner
+### 🎓 B.Tech Data Science Student | 💻 C++ & Python Developer
 
-I'm a B.Tech Data Science student interested in programming, data science, 
-machine learning, and building practical projects.
-
-## 🛠️ Skills
-
-- **Languages:** C++, Python, SQL
-- **Learning:** Data Structures & Algorithms, Machine Learning
-- **Tools:** Git, GitHub, VS Code
-
-## 🚀 Currently Learning
-
-- C++ & DSA
-- Python for Data Science
-- Machine Learning
-- Git & GitHub
-
-## 📌 Projects
-
-🔹 AI Interview System  
-🔹 Data Science Projects  
-🔹 DSA & Problem Solving
-
-## 💼 LinkedIn
-
-- LinkedIn: [@008-dveer](https://www.linkedin.com/in/008-dveer)
-
-## 📧 Email
-
-- Gmail: dalveer0559@gmail.com
-
-## 📫 Connect With Me
-
-- GitHub: [@008-dveer](https://github.com/008-dveer)
+I am a Data Science student passionate about machine learning, algorithmic problem-solving, and building practical software solutions.
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** `C++` | `Python` | `SQL`
+- **Focus Areas:** Data Structures & Algorithms, Machine Learning, Data Analytics
+- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook
+
+---
+
+### 📊 GitHub Activity & Stats
+
+![Dalveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=008-dveer&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=008-dveer&layout=compact&theme=tokyonight)
+
+---
+
+### 🚀 Featured Projects
+
+- 🤖 **AI Interview System** – An automated interview system designed to evaluate and simulate candidate technical responses.
+- 📊 **Data Science & ML Projects** – End-to-end data analysis and machine learning models for practical insights.
+- 💡 **DSA Implementation Hub** – Efficient algorithms and data structure solutions implemented in C++ and Python.
+
+---
+
+### 📫 Connect With Me
+
+- 💼 **LinkedIn:** [Dalveer Singh](https://www.linkedin.com/in/008-dveer)
+- 📧 **Email:** [dalveer0559@gmail.com](mailto:dalveer0559@gmail.com)
+- 🌐 **GitHub Profile:** [@008-dveer](https://github.008-dveer.com)
+
+---
+
+⭐️ *Thanks for stopping by! Feel free to explore my repositories or get in touch.*
