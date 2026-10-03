@@ -14,14 +14,6 @@ I am a Data Science student passionate about machine learning, algorithmic probl
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-![Dalveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=008-dveer&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=008-dveer&layout=compact&theme=tokyonight)
-
----
-
 ### 🚀 Featured Projects
 
 - 🤖 **AI Interview System** – An automated interview system designed to evaluate and simulate candidate technical responses.
